@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1 hora.
 
-![portada](https://github.com/aprendiendo-cosas/Te_biosfera_gaia_ecologia_ccaa/raw/main/imagenes/portada.png)
+![portada](https://github.com/aprendiendo-cosas/Te_biosfera_gaia_ecologia_ccaa/raw/2025_2026/imagenes/portada.png)
 
 
 
@@ -83,7 +83,7 @@ Aquí tienes un esquema ordenado de los principales contenidos de la presentaci�
 
 
 
-Para seguir el hilo argumental anterior, usamos [esta](https://github.com/aprendiendo-cosas/Te_biosfera_gaia_ecologia_ccaa/raw/refs/heads/main/presentacion/gaia.pptx) presentación. 
+Para seguir el hilo argumental anterior, usamos [esta](https://github.com/aprendiendo-cosas/Te_biosfera_gaia_ecologia_ccaa/raw/refs/tags/2025_2026/presentacion/gaia.pptx) presentación. 
 
 
 
